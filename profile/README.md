@@ -49,7 +49,7 @@ New readers should start with the public guide, then move to the spec and demos:
 
 ### For platform engineers:
 
-- `runtime-conditions-crd` - the Kubernetes Custom Resource Defition for deploying profiles as a custom resource
+- `runtime-conditions-crd` - the Kubernetes Custom Resource Definition for deploying profiles as a custom resource
 - `rc-admission-webhook` - extension validator for the profile CRD
 - `rc-extension-resolver` - extension resolution library used by the admission webhook
 - `api-conditions-adapter` - example platform adapter for interacting with the RC CRD and Backstage 
